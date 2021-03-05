@@ -1,3 +1,19 @@
 # webservice
-게시판 기능 구현과 스프링 시큐리티를 적용하여 구글, 네이버 로그인기능 구현
-AWS를 이용해서 배포해보기
+
+### 개발 스펙
+* Java 11
+* Gradle 6.8.2
+* Spring Boot 2.4.2
+
+### 사용 기술
+* REST API
+* Spring MVC
+* Spring Data JPA
+* Querydsl
+* Spring boot security
+* h2 Database
+
+### 기능
+* 네이버 로그인
+* 구글 로그인
+* 게시판 CRUD 
